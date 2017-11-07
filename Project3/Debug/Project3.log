@@ -1,0 +1,56 @@
+﻿Build started 5/15/2015 11:19:35 PM.
+     1>Project "C:\Users\lameya17\Documents\Visual Studio 2013\Projects\Project3\Project3\Project3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt RayTracer.cpp
+         RayTracer.cpp
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\triangle.h(62): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\triangle.h(72): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(430): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(431): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(432): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(439): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(440): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(441): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(452): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(453): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(454): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(461): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(462): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(463): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(473): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(474): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(475): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(481): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(482): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(483): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(489): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(490): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(491): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(497): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(498): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(499): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(503): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(504): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(505): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(508): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(509): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(510): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(513): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(514): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(515): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(532): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(533): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(534): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(538): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(539): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(540): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(551): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\lameya17\documents\visual studio 2013\projects\project3\project3\raytracer.cpp(678): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lameya17\Documents\Visual Studio 2013\Projects\Project3\Debug\RayTracer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lameya17\Documents\Visual Studio 2013\Projects\Project3\Debug\RayTracer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lameya17\Documents\Visual Studio 2013\Projects\Project3\Debug\RayTracer.lib" /MACHINE:X86 Debug\RayTracer.obj
+         Project3.vcxproj -> C:\Users\lameya17\Documents\Visual Studio 2013\Projects\Project3\Debug\RayTracer.exe
+     1>Done Building Project "C:\Users\lameya17\Documents\Visual Studio 2013\Projects\Project3\Project3\Project3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
